@@ -228,6 +228,8 @@ perpus/
 ## 👨‍💻 Pengembang
 
 **Nama:** *Farhat Syamil Pangestu*
+
 **Proyek:** Tugas Akhir CRUD Django — Sistem Perpustakaan
+
 **Tahun:** 2026
 
